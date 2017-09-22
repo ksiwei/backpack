@@ -10,6 +10,9 @@
     "test": "jest",
     "storybook": "storybook start -p 7007"
   },
+  "rnpm": {
+   "assets": ["../packages/bpk-svgs/dist/ttf/"]
+  },
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.6",
     "@storybook/addon-links": "^3.2.6",
